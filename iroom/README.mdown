@@ -1,8 +1,8 @@
 
-Author : Sumod K Mohan, Rahul Surendran and Nikhil Mahesh C K.
-Date   : March 10, 2014
-Acknowledgments : Mrs. Parvathy R (FISAT), Mr. Pramode C E (pramode.net) and Mr. Pradeepkumar M (Chipware Solutions). 
-Original Date of Authorship : Circa 2004-2005.
+Author : Sumod K Mohan, Rahul Surendran and Nikhil Mahesh C K <br />
+Date   : March 10, 2014 <br />
+Acknowledgments : Mrs. Parvathy R (FISAT), Mr. Pramode C E (pramode.net) and Mr. Pradeepkumar M (Chipware Solutions).<br />
+Original Date of Authorship : Circa 2004-2005.<br />
 
 A collection of some of the code samples and circuit diagrams from my junior year project of undergraduate studies. The code is in rather bad shape and please use it with caution. I nor my other project partners are responsible for any damage caused by it. This projects exists only for historical reasons. 
 
